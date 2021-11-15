@@ -4,7 +4,7 @@
 ### Hi there 👋, I'm Emmanuel Ogah from Nigeria.
 #### I am a full-stack software developer
 
-Passionate about ideating, and producing consumer-centric as well as B2B technology and technology-enabled products from zero level. Open to exploring exciting full-stack development opportunities in startups as well as companies with scale.
+Passionate about ideating, and producing consumer-centric as well as B2B technology and technology-enabled products from zero level. I am open to exploring exciting full-stack development opportunities in startups as well as companies with scale.
 
 
 
