@@ -1,5 +1,5 @@
 
-![I am a full-stack software developer](https://media-exp1.licdn.com/dms/image/C4E16AQFGZFK2xg-JKA/profile-displaybackgroundimage-shrink_200_800/0/1636129650423?e=1641427200&v=beta&t=Dtb8u73dU5HtD8kHJJ6p0P-VVznlD6s96xjy7dGS0m0)
+![I am a full-stack software developer](https://media-exp1.licdn.com/dms/image/C4E16AQGL-K2GpbjTVw/profile-displaybackgroundimage-shrink_200_800/0/1639755094594?e=1646265600&v=beta&t=A3hkhGZFRx-GZIxvPnA9ZfpeS7r7oJJVr-TIqEU_pgk)
 
 ### Hi there 👋, I'm Emmanuel Ogah from Nigeria.
 #### I am a full-stack software developer
