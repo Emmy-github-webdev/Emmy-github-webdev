@@ -1,8 +1,8 @@
 
-![I am a DevOps Engineer](https://media.licdn.com/dms/image/C4D16AQGkNuUrBBFYWQ/profile-displaybackgroundimage-shrink_350_1400/0/1655469785380?e=1700092800&v=beta&t=ljNhE8DSl3_ZPkP4XoRcg-8IMUqWe84ukZ0dZuDvxPY)
+![I am a DevOps Engineer](https://media.licdn.com/dms/image/D5616AQEA0J52v8kzzQ/profile-displaybackgroundimage-shrink_350_1400/0/1701336092625?e=1706745600&v=beta&t=MDoF5jDeM43KOP99By7YAD4hMG9PaJvb6ybdxXyraas)
 
 ### Hi there 👋, I'm Emmanuel Ogah from Nigeria.
-#### I am a software/DevOps Engineer
+#### I am a DevOps Engineer
 
 Passionate about ideating, and producing consumer-centric as well as B2B technology and technology-enabled products from zero level. I am open to exploring exciting DevOps opportunities in startups as well as companies with scale.
 
