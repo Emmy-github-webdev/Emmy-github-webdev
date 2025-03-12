@@ -1,5 +1,5 @@
 
-![I am a DevOps Engineer](https://drive.google.com/file/d/1KRJHAsAZ0M6cJDl0FUuhgwwnjlTpBupk/view?usp=drive_link)
+![I am a DevOps Engineer](./cover-page.jpeg)
 
 ### Hi there 👋, I'm Emmanuel Ogah from the Netherlands.
 #### I am a Senior DevOps Engineer
